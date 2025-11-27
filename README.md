@@ -52,7 +52,7 @@ Used for promotions and menu strategy.
 ### 🛑 Bottom 5 Least-Selling Pizzas
 Helps in deciding which pizzas may require redesign or removal.
 
-### Business Questions Answered
+## Business Questions Answered
 - What is the total revenue generated?
 
   `$817,860.05`
@@ -78,6 +78,7 @@ Helps in deciding which pizzas may require redesign or removal.
   `$2.32`
   
 - What are the sales trends by day, month, and time of day?
+  
   `Sales trends reveal clear seasonality and time-based patterns. Orders show a steady increase during peak periods across days, months, and hours of the day. These patterns help identify busy periods and support operational planning.`
 
 
