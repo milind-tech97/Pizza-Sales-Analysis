@@ -52,13 +52,34 @@ Used for promotions and menu strategy.
 ### 🛑 Bottom 5 Least-Selling Pizzas
 Helps in deciding which pizzas may require redesign or removal.
 
-## ❓ Business Questions Answered
-- Total revenue?
-- Total pizzas sold?
-- Best performing categories?
-- Top/bottom pizzas?
-- AOV?
-- Time-based trends?
+### Business Questions Answered
+- What is the total revenue generated?
+
+  `$817,860.05`
+  
+- How many pizzas were sold in total?
+
+`49,574.00`
+
+- Which category and size of pizzas perform best?
+
+  `Chicken-L & Vegie-L`
+  
+- Which pizzas are the top and bottom performers?
+
+`5 Best-Selling Pizzas: The Thai Chicken Pizza, The Barbecue Chicken Pizza, The California Chicken Pizza, The Classic Deluxe Pizza &The Spicy Italian Pizza`
+
+` 5 Least-Selling Pizzas : The Spinach Pesto Pizza, The Mediterranean Pizza, The Spinach Supreme Pizza, The Green Garden Pizza & The Brie Carre Pizza`
+
+
+
+- What is the average order value and average pizzas per order?
+
+  `$2.32`
+  
+- What are the sales trends by day, month, and time of day?
+  `Sales trends reveal clear seasonality and time-based patterns. Orders show a steady increase during peak periods across days, months, and hours of the day. These patterns help identify busy periods and support operational planning.`
+
 
 ## 📁 Deliverables
 - Visualizations
@@ -67,3 +88,10 @@ Helps in deciding which pizzas may require redesign or removal.
 
 ## 🚀 Tech Stack
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook
+
+## 📝 Conclusion & Recommendations
+The project helps management to:
+- Promote high-performing pizza categories
+- Optimize the menu by evaluating low sellers
+- Plan inventory and staffing through trend analysis
+- Track KPIs using dashboards for continuous improvement
